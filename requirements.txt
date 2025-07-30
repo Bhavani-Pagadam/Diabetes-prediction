@@ -1,0 +1,9 @@
+# Core Streamlit and Web Framework
+streamlit
+numpy
+pandas
+scikit-learn
+joblib
+plotly
+matplotlib
+seaborn
